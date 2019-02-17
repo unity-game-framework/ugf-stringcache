@@ -25,7 +25,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.0-preview] - 2019-02-17
 ### Added
-- Migrate from internal repository (#3)
+- Add package to `dev` registry.
+- Migrate from internal repository. (#3)
 
 ---
 > Unity Game Framework | Copyright 2019
