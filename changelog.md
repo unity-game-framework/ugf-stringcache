@@ -31,4 +31,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 > Unity Game Framework | Copyright 2019
 
 [Unreleased]: https://github.com/unity-game-framework/ugf-stringcache/compare/release/1.0.0-preview...HEAD
-[1.0.0]: https://github.com/unity-game-framework/ugf-stringcache/compare/master...release/1.0.0-preview
+[1.0.0-preview]: https://github.com/unity-game-framework/ugf-stringcache/compare/master...release/1.0.0-preview
