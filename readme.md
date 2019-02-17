@@ -11,7 +11,7 @@ UGF.StringCache
 
 ### Dependencies
 
-- **[UGF.Instance][5]**: `1.0.0-preview`
+- [UGF.Instance][5]: `1.0.0-preview`
 
 ### Changelog
 
