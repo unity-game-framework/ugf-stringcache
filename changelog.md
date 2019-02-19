@@ -4,7 +4,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## Unreleased - 2019.01.01
+- [Commits](https://github.com/unity-game-framework/ugf-stringcache/compare/1.0.1-preview...HEAD)
+- [Milestone](https://github.com/unity-game-framework/ugf-stringcache/milestone/2?closed=1)
+
 ### Added
 - Nothing.
 
@@ -23,13 +26,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Security
 - Nothing.
 
-## [1.0.0-preview] - 2019-02-17
+## 1.0.0-preview - 2019-02-17
+- [Commits](https://github.com/unity-game-framework/ugf-stringcache/compare/master...release/1.0.0-preview)
+- [Milestone](https://github.com/unity-game-framework/ugf-stringcache/milestone/0?closed=1)
+
 ### Added
 - Add package to `dev` registry.
 - Migrate from internal repository. (#3)
 
 ---
 > Unity Game Framework | Copyright 2019
-
-[Unreleased]: https://github.com/unity-game-framework/ugf-stringcache/compare/release/1.0.0-preview...HEAD
-[1.0.0-preview]: https://github.com/unity-game-framework/ugf-stringcache/compare/master...release/1.0.0-preview
