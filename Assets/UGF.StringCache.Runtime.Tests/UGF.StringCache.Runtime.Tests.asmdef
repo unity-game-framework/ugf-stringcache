@@ -1,0 +1,20 @@
+{
+    "name": "UGF.StringCache.Runtime.Tests",
+    "references": [
+        "GUID:6c372dff0f13eb2499c8554e4ee788b3",
+        "GUID:c2546db33c90e844fb1f80f452ee3fb0"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}

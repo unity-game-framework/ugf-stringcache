@@ -4,14 +4,14 @@ UGF.StringCache
 
 ## Info
 
-- **Version**: `0.0.0-preview`
+- **Version**: `1.0.0-preview`
 - **Unity Version**: `2019.1.0`
 - **Scripting Runtime Version**: `.NET 4.x Equivalent`
 - **Api Compatibility Level**: `.NET Standard 2.0`
 
 ### Dependencies
 
-- **UGF.Instance**: `1.0.0-preview`
+- [UGF.Instance][5]: `1.0.0-preview`
 
 ### Changelog
 
@@ -20,7 +20,7 @@ UGF.StringCache
 ### Registries
 
 - [Stable][2] (N/A)
-- [Develop][3] (N/A)
+- [Develop][3]
 
 ## Description
 
@@ -37,3 +37,4 @@ Read about how to install any packages from the `Unity Game Framework` registry:
 [2]: https://bintray.com/unity-game-framework/stable/com.ugf.stringcache
 [3]: https://bintray.com/unity-game-framework/dev/com.ugf.stringcache
 [4]: https://github.com/unity-game-framework/ugf-documentation/wiki/Install-Package
+[5]: https://github.com/unity-game-framework/ugf-instance/tree/release/1.0.0-preview
