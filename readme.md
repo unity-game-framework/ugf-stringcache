@@ -4,14 +4,14 @@ UGF.StringCache
 
 ## Info
 
-- **Version**: `1.0.0-preview`
+- **Version**: `1.0.1`
 - **Unity Version**: `2019.1.0`
 - **Scripting Runtime Version**: `.NET 4.x Equivalent`
 - **Api Compatibility Level**: `.NET Standard 2.0`
 
 ### Dependencies
 
-- [UGF.Instance][5]: `1.0.0-preview`
+- [UGF.Instance][5]: `1.0.2`
 
 ### Changelog
 
@@ -19,7 +19,7 @@ UGF.StringCache
 
 ### Registries
 
-- [Stable][2] (N/A)
+- [Stable][2]
 - [Develop][3]
 
 ## Description
