@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - [Milestone](https://github.com/unity-game-framework/ugf-stringcache/milestone/2?closed=1)
 
 ### Added
-- Nothing.
+- Code: assertions checks #6
 
 ### Changed
 - Nothing.

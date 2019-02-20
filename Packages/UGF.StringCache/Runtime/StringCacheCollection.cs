@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using UGF.Instance.Runtime;
 
 namespace UGF.StringCache.Runtime
@@ -20,6 +21,8 @@ namespace UGF.StringCache.Runtime
 
         public override TIdentifier Add(string instance)
         {
+            if (instance == null) throw new ArgumentNullException(nameof(instance));
+            
             var identifier = base.Add(instance);
 
             m_identifiers.Add(instance, identifier);
@@ -48,6 +51,8 @@ namespace UGF.StringCache.Runtime
 
         public TIdentifier GetIdentifier(string value)
         {
+            if (value == null) throw new ArgumentNullException(nameof(value));
+            
             if (!m_identifiers.TryGetValue(value, out var identifier))
             {
                 identifier = Add(value);
